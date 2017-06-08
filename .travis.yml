@@ -1,6 +1,5 @@
 language: node_js
 node_js:
   - '8.1.0'
-  - 'iojs'
 
 script: npm run test-pa11y;

@@ -12,6 +12,6 @@
     "url": "https://github.com/shadowgamefly/test_pa11y"
   },
   "devDependencies": {
-    "pa11y-ci": "~1.0",
+    "pa11y-ci": "~1.0"
   }
 }
