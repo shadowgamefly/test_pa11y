@@ -1,0 +1,17 @@
+
+{
+  "name": "node-testing-with-travis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-pa11y": "./node_modules/.bin/pa11y-ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadowgamefly/test_pa11y"
+  },
+  "devDependencies": {
+    "pa11y-ci": "~1.0",
+  }
+}

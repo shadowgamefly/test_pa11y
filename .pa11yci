@@ -1,0 +1,9 @@
+{
+	"defaults": {
+		"timeout": 1000
+	},
+	"urls": [
+		"https://osf.io",
+		"https://osf.io/NOTFOUND"
+	]
+}
