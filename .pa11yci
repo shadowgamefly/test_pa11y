@@ -1,6 +1,6 @@
 {
 	"defaults": {
-		"timeout": 1000
+		"timeout": 10000
 	},
 	"urls": [
 		"https://osf.io",
