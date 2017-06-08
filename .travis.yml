@@ -2,4 +2,5 @@ language: node_js
 node_js:
   - '8.1.0'
 
-script: npm run test-pa11y;
+script:
+  - npm run test-pa11y;
